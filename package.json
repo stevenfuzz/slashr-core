@@ -1,0 +1,19 @@
+{
+  "name": "slashr-core",
+  "version": "0.0.1",
+  "description": "core slashr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenfuzz/slashr-core.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevenfuzz/slashr-core/issues"
+  },
+  "homepage": "https://github.com/stevenfuzz/slashr-core#readme"
+}
